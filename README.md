@@ -58,6 +58,14 @@ Modified GnosisPay Dashboard:
 
 See the new option: **gNoCard Prepaid Mastercard**
 
+New on-boarding protocol:
+
+![img](./assets/images/samplekycgnosis.png)
+
+The new gNoCard portal (where the user can buy pre-paid debit cards or vouchers or others)
+
+![img](./assets/images/cardoptions.png)
+
 ---
 
 ### Project Description: High Level System Architecture Diagram
