@@ -60,6 +60,24 @@ See the new option: **gNoCard Prepaid Mastercard**
 
 ---
 
+### Project Description: High Level System Architecture Diagram
+
+```
+┌──────────────────────────────────┐        ┌───────────────────────────┐        ┌───────────────────────────┐
+│                                  │ ─────► │                           │ ─────► │                           │
+│ L1 / L2 Safe Account + Module(s) │        │ NoCard Middleware         │        │ Third Party Voucher API   │
+│                                  │ ◄───── │                           │ ◄───── │                           │
+│                                  │        │                           │        └───────────────────────────┘
+│                                  │        │                           │
+│                                  │        │                           │        ┌───────────────────────────┐
+│                                  │        │                           │ ─────► │                           │
+│                                  │        │                           │        │ Other fiat off-ramps      │
+│                                  │        │                           │ ◄───── │                           │
+└──────────────────────────────────┘        └───────────────────────────┘        └───────────────────────────┘
+```
+
+---
+
 ## Why gNoCard
 
 ### Why gNoCard: Remembering The Core Principles
@@ -85,6 +103,8 @@ We believe that this is the only way to truly revolutionize the payment card. In
 ![img](./assets/images/paragraph.png)
 
 ![img2](./assets/images/paragrap-second.png)
+
+---
 
 ### Why gNoCard: The Wider Context
 
@@ -142,23 +162,6 @@ Source number 2: **[wise.com/gb/blog/using-visa-card-abroad](https://wise.com/gb
 
 ### Why gNoCard: Why Integrating Vouchers And Prepaid Debit Cards
 
-
----
-
-# High Level System Architecture Diagram
-
-```
-┌──────────────────────────────────┐        ┌───────────────────────────┐        ┌───────────────────────────┐
-│                                  │ ─────► │                           │ ─────► │                           │
-│ L1 / L2 Safe Account             │        │ NoCard Middleware         │        │ Third Party Voucher API   │
-│                                  │ ◄───── │                           │ ◄───── │                           │
-│                                  │        │                           │        └───────────────────────────┘
-│                                  │        │                           │
-│                                  │        │                           │        ┌───────────────────────────┐
-│                                  │        │                           │ ─────► │                           │
-│                                  │        │                           │        │ Other fiat off-ramps      │
-│                                  │        │                           │ ◄───── │                           │
-└──────────────────────────────────┘        └───────────────────────────┘        └───────────────────────────┘
-```
+TBD
 
 ---
