@@ -5,12 +5,12 @@
 - [gNo Card](#gno-card)
   - [Project Description](#project-description)
     - [Project Description: Proposed Design](#project-description-proposed-design)
+    - [Project Description: High Level System Architecture Diagram](#project-description-high-level-system-architecture-diagram)
   - [Why gNoCard](#why-gnocard)
     - [Why gNoCard: Remembering The Core Principles](#why-gnocard-remembering-the-core-principles)
     - [Why gNoCard: Interpreting the Challenge](#why-gnocard-interpreting-the-challenge)
     - [Why gNoCard: The Wider Context](#why-gnocard-the-wider-context)
     - [Why gNoCard: Why Integrating Vouchers And Prepaid Debit Cards](#why-gnocard-why-integrating-vouchers-and-prepaid-debit-cards)
-- [High Level System Architecture Diagram](#high-level-system-architecture-diagram)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
