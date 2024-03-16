@@ -86,6 +86,8 @@ Please note that this information could be slightly out-of-date.
 
 Source: **[merchantmachine.co.uk/visa-mastercard-amex/](https://merchantmachine.co.uk/visa-mastercard-amex/)**
 
+Source number 2: **[wise.com/gb/blog/using-visa-card-abroad](https://wise.com/gb/blog/using-visa-card-abroad#where-are-visa-debit-cards-not-accepted)**
+
 ---
 
 # How It Is Made
