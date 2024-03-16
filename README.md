@@ -48,6 +48,8 @@ Below is a high level description of ONE of the mechanisms by we will add an off
 
 9. END.
 
+Regarding how it works, this uses the _safe-smart-account_ API to manage transfers, perhaps with the adequate modules like the Zodiac Delay (this is still to be determined) and, it uses the BitRefill API to buy the vouchers / prepaid debit cards.
+
 ---
 
 ### Project Description: Proposed Design
