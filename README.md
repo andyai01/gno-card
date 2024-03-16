@@ -33,3 +33,63 @@ Below is a high level description of ONE of the mechanisms by we will add an off
 9. END.
 
 ---
+
+# Why gNoCard
+
+## Why gNoCard: The Wider Context
+
+In order to achieve a wider adoption we believe it is important to also serve other users that are less fortunate and are not served by the current western-oriented bank system.
+
+According to different sources that show-up in the top results in Google and other search engines, the payment network **Visa**, is widely accepted around the world, **however** there are countries where it is not be accepted due to various _restrictions_ or _sanctions_. As of a few now, countries where users might have huge difficulties using their Visa cards may include:
+
+* Afghanistan
+
+* Belarus
+
+* Burundi
+
+* Central African Republic (CAR)
+
+* Chad
+
+* Congo and The Democratic Republic of the Congo (DRC)
+
+* Cuba
+
+* Eritrea
+
+* Iran
+
+* Iraq
+
+* Libya
+
+* Myanmar
+
+* North Korea
+
+* Russia
+
+* Somalia
+
+* Sudan and South Sudan
+
+* Syria
+
+* Venezuela
+
+* Yemen
+
+Please note that this information could be slightly out-of-date.
+
+![image](./assets/images/visa-map.png)
+
+Source: **[merchantmachine.co.uk/visa-mastercard-amex/](https://merchantmachine.co.uk/visa-mastercard-amex/)**
+
+---
+
+# How It Is Made
+
+TBD
+
+---
