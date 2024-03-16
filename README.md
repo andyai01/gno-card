@@ -6,7 +6,7 @@ The _gNoCard_ system will allow the user that already has a **Safe** to still us
 
 One can think of **gNoCard** like an _off-ramp_ to fiat / to something fiat-like where all the friction is removed.
 
-This has the potential to also add ability to anonymously purchases of goods and services.
+This has the potential to also add ability to purchases goods and services where with **TRUE PRIVACY**.
 
 ---
 
