@@ -2,7 +2,7 @@
 
 This hereby project, **gNo Card**, is meant to act an _extension_ to the existing _card-plus-account_ **Gnosis** system. With the use of _gNo Card_ ( where the letter **G** is a silent letter, therefore _NoCard_ ), the user will be able to buy goods and services in places where the **GnosisPay VISA** card doesn't work.
 
-The _gNoCard_ system will allow the user that already has a **Safe** to still use his / her crypto monies / stable-coin monies to pay for things ( like groceries, travel, luxuries, and so on ) in places where non-crypto systems are in place and the user's VISA doesn't work or in cases where the there is a problem with the card itself. This will be achieved trough workarounds like vouchers, coupons, prepaid-cards, cross-wish-list purchases and so on. Everything will happen seamlessly with basically one click.
+The _gNoCard_ system will allow the user that already has a **Safe** to still use his / her crypto monies / stable-coin monies to pay for things ( like groceries, travel, luxuries, and so on ) in places where non-crypto systems are in place and the user's VISA doesn't work or in cases where the there is a problem with the card itself. This will be achieved trough workarounds like vouchers, coupons, prepaid-cards, cross-wishlist purchases and so on. Everything will happen seamlessly with basically one click.
 
 One can think of **gNoCard** like an _off-ramp_ to fiat / to something fiat-like where all the friction is removed.
 
@@ -34,9 +34,31 @@ Below is a high level description of ONE of the mechanisms by we will add an off
 
 ---
 
-# Why gNoCard
+## Why gNoCard
 
-## Why gNoCard: The Wider Context
+### Why gNoCard: Remembering The Core Principles
+
+It is our believe that Gnosis is being view by the public as a company that sticks to the **CORE PRINCIPLES** of open blockchains: 1). **open**; 2). **public**, 3). **borderless**, 4). **neutral**, and 5). **censorship-resistant**.
+
+Keeping only **VISA** as the only go-to option for users seems more or less like a politically-motivated decision which is the third and forth pillars of crypto ( **borderless** and **neutral** ).
+
+Not adding other types of cards other than VISA is will hinder the brand but the brand reputation can be improved with **nGoCard**.
+
+This goes against the slogan ( it could be seen inconsistent at best and miss-leading at worst )!
+
+**`Decentralization. Accepted Everywhere.`**
+
+![img](./assets/images/slogan.png)
+
+### Why gNoCard: Interpreting the Challenge
+
+We believe that this is the only way to truly revolutionize the payment card. In addition adding all workarounds in one place is ( the ability to seamlessly buy virtual / physical prepaid debit cards, the ability acquire coupons, perform cross-wishlist purchases as in fulfill the Amazon wishlist of another un-banked users and vice-versa, streamline the off-ramp to physical crypto, etc ) all those elements TOGETHER are truly **innovative**.
+
+![img](./assets/images/paragraph.png)
+
+![img2](./assets/images/paragrap-second.png)
+
+### Why gNoCard: The Wider Context
 
 In order to achieve a wider adoption we believe it is important to also serve other users that are less fortunate and are not served by the current western-oriented bank system.
 
@@ -90,8 +112,25 @@ Source number 2: **[wise.com/gb/blog/using-visa-card-abroad](https://wise.com/gb
 
 ---
 
-# How It Is Made
+### Why gNoCard: Why Integrating Vouchers And Prepaid Debit Cards
 
-TBD
+
+---
+
+# High Level System Architecture Diagram
+
+```
+┌──────────────────────────────────┐        ┌───────────────────────────┐        ┌───────────────────────────┐
+│                                  │ ─────► │                           │ ─────► │                           │
+│ L1 / L2 Safe Account             │        │ NoCard Middleware         │        │ Third Party Voucher API   │
+│                                  │ ◄───── │                           │ ◄───── │                           │
+│                                  │        │                           │        └───────────────────────────┘
+│                                  │        │                           │
+│                                  │        │                           │        ┌───────────────────────────┐
+│                                  │        │                           │ ─────► │                           │
+│                                  │        │                           │        │ Other fiat off-ramps      │
+│                                  │        │                           │ ◄───── │                           │
+└──────────────────────────────────┘        └───────────────────────────┘        └───────────────────────────┘
+```
 
 ---
