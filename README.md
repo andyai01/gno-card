@@ -42,13 +42,15 @@ It is our believe that Gnosis is being view by the public as a company that stic
 
 Keeping only **VISA** as the only go-to option for users seems more or less like a politically-motivated decision which is the third and forth pillars of crypto ( **borderless** and **neutral** ).
 
-Not adding other types of cards other than VISA is will hinder the brand but the brand reputation can be improved with **nGoCard**.
+Not adding other types of cards other than VISA will hinder mass-adoption and hinder the brand but the brand reputation can be improved with **nGoCard**.
 
 This goes against the slogan ( it could be seen inconsistent at best and miss-leading at worst )!
 
 **`Decentralization. Accepted Everywhere.`**
 
 ![img](./assets/images/slogan.png)
+
+---
 
 ### Why gNoCard: Interpreting the Challenge
 
