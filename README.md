@@ -92,7 +92,13 @@ The new gNoCard portal (where the user can buy pre-paid debit cards or vouchers 
 
 ### Why gNoCard: Remembering The Core Principles
 
-It is our believe that Gnosis is being view by the public as a company that sticks to the **CORE PRINCIPLES** of open blockchains: 1). **open**; 2). **public**, 3). **borderless**, 4). **neutral**, and 5). **censorship-resistant**.
+It is our believe that Gnosis is being view by the public as a company that sticks to the **CORE PRINCIPLES** of open blockchains: 
+
+1). **open**; 
+2). **public**, 
+3). **borderless**, 
+4). **neutral**, 
+and 5). **censorship-resistant**.
 
 Keeping only **VISA** as the only go-to option for users seems more or less like a politically-motivated decision which is the third and forth pillars of crypto ( **borderless** and **neutral** ).
 
