@@ -16,7 +16,7 @@ Below is a high level description of ONE of the mechanisms by we will add an off
 
 1. User goes to the [gnosispay.com](https://gnosispay.com/);
 
-2. The on-boarding platform shows two options: A). the legacy full-KYC option; B). the minimum-user verification option;
+2. The on-boarding platform shows two options: A). the legacy full-KYC option ( _Complete SignUp_ ); B). the minimum-user verification option ( _MinimumInfo SignUp_ );
 
 3. User selects option B;
 
@@ -31,6 +31,16 @@ Below is a high level description of ONE of the mechanisms by we will add an off
 8. User after getting prompted with a message selects a way to pay for groceries with the use of a Voucher with just one tap ( this implies that the user is using the GnosisPay dashboard trough the Browser / there is a native GnosisPay app ).
 
 9. END.
+
+---
+
+### Project Description: Proposed Design
+
+Modified GnosisPay Dashboard:
+
+![img](./assets/images/virtualgnosiscard.png)
+
+See the new option: **gNoCard Prepaid Mastercard**
 
 ---
 
