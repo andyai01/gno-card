@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [gNo Card](#gno-card)
+  - [Project Description](#project-description)
+    - [Project Description: Proposed Design](#project-description-proposed-design)
+  - [Why gNoCard](#why-gnocard)
+    - [Why gNoCard: Remembering The Core Principles](#why-gnocard-remembering-the-core-principles)
+    - [Why gNoCard: Interpreting the Challenge](#why-gnocard-interpreting-the-challenge)
+    - [Why gNoCard: The Wider Context](#why-gnocard-the-wider-context)
+    - [Why gNoCard: Why Integrating Vouchers And Prepaid Debit Cards](#why-gnocard-why-integrating-vouchers-and-prepaid-debit-cards)
+- [High Level System Architecture Diagram](#high-level-system-architecture-diagram)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # gNo Card
 
 This hereby project, **gNo Card**, is meant to act an _extension_ to the existing _card-plus-account_ **Gnosis** system. With the use of _gNo Card_ ( where the letter **G** is a silent letter, therefore _NoCard_ ), the user will be able to buy goods and services in places where the **GnosisPay VISA** card doesn't work.
