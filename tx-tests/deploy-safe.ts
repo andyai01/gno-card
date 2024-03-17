@@ -2,6 +2,11 @@ import { SafeAccountConfig, SafeFactory } from '@safe-global/protocol-kit'
 import { EthersAdapter } from '@safe-global/protocol-kit'
 import { SafeVersion } from '@safe-global/safe-core-sdk-types'
 import { ethers } from 'ethers'
+import dotenv from 'dotenv'
+
+dotenv.config()
+const { env } = process
+const { RPC_URL, DEPLOYER_ADDRESS_PRIVATE_KEY, OWNERS_ONE } = env
 
 // This file can be used to play around with the Safe Core SDK
 
@@ -17,10 +22,10 @@ interface Config {
 }
 
 const config: Config = {
-  RPC_URL: 'https://rpc.ankr.com/eth_goerli',
-  DEPLOYER_ADDRESS_PRIVATE_KEY: '<DEPLOYER_ADDRESS_PRIVATE_KEY>',
+  RPC_URL: RPC_URL || '',
+  DEPLOYER_ADDRESS_PRIVATE_KEY: DEPLOYER_ADDRESS_PRIVATE_KEY || '',
   DEPLOY_SAFE: {
-    OWNERS: ['OWNER_ADDRESS'],
+    OWNERS: [ OWNERS_ONE || '' ],
     THRESHOLD: 1, // <SAFE_THRESHOLD>
     SALT_NONCE: '150000',
     SAFE_VERSION: '1.3.0'
