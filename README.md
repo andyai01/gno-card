@@ -177,3 +177,15 @@ Source: **[merchantmachine.co.uk/visa-mastercard-amex/](https://merchantmachine.
 Source number 2: **[wise.com/gb/blog/using-visa-card-abroad](https://wise.com/gb/blog/using-visa-card-abroad#where-are-visa-debit-cards-not-accepted)**
 
 ---
+
+### Why gNoCard: The Current Trends
+
+More and more mobile-first apps are integrating thought-after elements like cash-back, ability to buy commodities, access financial instruments, DCA, etc. The new trend is to enable the user to spend his / her money ( crypto or otherwise ) to buy every day necessities.
+
+E.g ( Strike App - https://strike.me ):
+
+<video width="240px" autoplay="" loop=""><source src="https://www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.webm" type="video/webm"><source src="https://www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.mp4" type="video/mp4"></video>
+
+[www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.mp4](https://www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.mp4)
+
+---
