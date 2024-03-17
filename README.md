@@ -26,6 +26,8 @@ This has the potential to also add ability to purchases goods and services where
 
 https://andyai01.github.io/gno-card/
 
+Deployed Safe: 0x800A87d26346eb027D0A7ae32c5297eA4557d2F9 ( Chiado )
+
 ---
 
 ## Project Description
