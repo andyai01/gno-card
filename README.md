@@ -10,7 +10,7 @@
     - [Why gNoCard: Remembering The Core Principles](#why-gnocard-remembering-the-core-principles)
     - [Why gNoCard: Interpreting the Challenge](#why-gnocard-interpreting-the-challenge)
     - [Why gNoCard: The Wider Context](#why-gnocard-the-wider-context)
-    - [Why gNoCard: Why Integrating Vouchers And Prepaid Debit Cards](#why-gnocard-why-integrating-vouchers-and-prepaid-debit-cards)
+    - [Why gNoCard: The Current Trends](#why-gnocard-the-current-trends)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
