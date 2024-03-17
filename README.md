@@ -188,4 +188,12 @@ E.g ( Strike App - https://strike.me ):
 
 [www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.mp4](https://www.bitrefill.com/content/cn/video/upload/v1701427004/StrikeDemo.mp4)
 
+It must be noted the fact that the only suitable third-party is BitRefill but due to the inability to setup a company and reach out to them in time it wasn't possible to get access to their API - we've experienced issues with the KYC as well.
+
+> How to get access
+
+> This API is only available to select partners. Reach out to our business development team at bd@bitrefill.com if you're interested in a partnership.
+
+> Note: We only work with established companies/services that already have a significant user base.
+
 ---
