@@ -24,6 +24,8 @@ One can think of **gNoCard** like an _off-ramp_ to fiat / to something fiat-like
 
 This has the potential to also add ability to purchases goods and services where with **TRUE PRIVACY**.
 
+https://andyai01.github.io/gno-card/
+
 ---
 
 ## Project Description
